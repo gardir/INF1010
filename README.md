@@ -1,2 +1,2 @@
-# INF1010
-A repository for my work as Assistant Teacher in course INF1010 at University of Oslo
+# Plenum INF1010-V16
+Her blir kode og relevante notater skrevet og brukt i plenum lagt ut for enkel nedlastning.
