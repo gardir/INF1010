@@ -5,11 +5,11 @@ class Kvadrat{
 		sidelengde = sl;
 	}
 
-	public double area(){
+	public double areal(){
 		return sidelengde*sidelengde;
 	}
 
-	public double circumference(){
+	public double omkrets(){
 		return 4*sidelengde;
 	}
 }
