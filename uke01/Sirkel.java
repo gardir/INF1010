@@ -1,15 +1,15 @@
-class Circle{
+class Sirkel{
 	private double radius;
 
-	public Circle(double r){
+	public Sirkel(double r){
 		radius = r;
 	}
 
-	public double area(){
+	public double areal(){
 		return Math.PI*radius*radius;
 	}
 
-	public double circumference(){
+	public double omkrets(){
 		return 2*Math.PI*radius;
 	}
 }

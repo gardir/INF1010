@@ -1,4 +1,4 @@
-public class Trix32 {
+public class Trix2_2 {
 
     public static void oppgA() {
         String[] strenger = {
@@ -123,7 +123,7 @@ public class Trix32 {
             new Person("Harald", 26)
         };
 
-        // Trix 3.2b)
+        // Trix 2.2b)
         //oppgB(personer);
         // c)
         //oppgC(personer);

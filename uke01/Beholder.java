@@ -1,11 +1,11 @@
-class Container<E>{
+class Beholder<E>{
 	private E element;
 
-	public void put(E element){
+	public void settInn(E element){
 		this.element = element;
 	}
 
-	public E take(){
+	public E taUt(){
 		return this.element;
 	}
 }
