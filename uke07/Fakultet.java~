@@ -1,0 +1,19 @@
+public class Fakultet{
+    
+    public static int fakIter(int n){
+        int fak = 1;
+
+        for(int i = 1; i <= n; i++){
+            fak = i*fak;
+        }
+        return fak;
+    }
+
+    public static int fakultet(int n){
+        if(n == 0){
+            return 1;
+        }
+        return n*fakultet(n-1);
+    }
+
+}
