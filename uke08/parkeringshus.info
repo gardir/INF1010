@@ -1,0 +1,16 @@
+%% Parkeringshus (stoerrelse)
+15
+
+%% Biler (skilt;merke;sitteplasser;parkeringsplass)
+AF74944;MitsubishiLancer;3;0
+XX12345;mittmerke;2;1
+OU00036;FordDuo;2;4
+LN37882;ToyotaNotYaris;5;5
+SO95419;BMW316;3;6
+QY93530;NissanSkyline;4;8
+XO11880;BMWX3;2;12
+MT54298;AudiA6;5;13
+
+%% Racingsykler(skilt;merke;parkeringsplass)
+EB12555;SuzukiYiiha;3
+II45336;RacestyleNX900;14
