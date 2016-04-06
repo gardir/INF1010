@@ -1,0 +1,14 @@
+import java.util.Scanner;
+
+public class IOTips {
+    
+    private static
+
+    public static void main( String[] args ) {
+        Scanner stdin = new Scanner( System.in );
+        System.out.print("Hva vil du si: ");
+        String fraBruker = stdin.nextLine();
+        System.out.println("Fra bruker: " + fraBruker );
+    }
+    
+}
