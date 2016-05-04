@@ -1,0 +1,8 @@
+plenumfil
+123
+4
+52
+3
+ikke et tall
+234
+35
